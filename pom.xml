@@ -24,13 +24,13 @@
             </url>
         </repository>
         
-<!--        <snapshotRepository>
+        <snapshotRepository>
             <id>snapshots</id>
             <name>Snapshot Repository</name>
             <url>
                 http://192.168.1.14:8081/nexus/content/repositories/snapshots
             </url>
-        </snapshotRepository>-->
+        </snapshotRepository>
     </distributionManagement>
 
 
